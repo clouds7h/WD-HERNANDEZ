@@ -5,9 +5,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-    <a href="https://app.daily.dev/clouds7h"><img src="https://api.daily.dev/devcards/v2/u5Dgbb6HcDMHGC69mu589.png?r=ka6&type=default" width="356" alt="Clodete Reign L. Hernandez's Dev Card"/></a>
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="LOGO_001.jpg" alt="Alpas" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">H E R N A N D E Z</h3>

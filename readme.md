@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  As a first-year college student at FEU Institute of Technology pursuing an IT degree, I'm on an exciting journey to delve into the intricate world of technology. My current repertoire includes a foundation in C++, HTML, CSS, and a dash of Adobe Photoshop skills. While I'm just beginning to navigate through the realms of coding and design, I'm fueled by a curiosity to learn and a determination to excel in the ever-evolving field of information technology. With each line of code and every design project, I'm eagerly expanding my skills and shaping my path towards a promising future in the tech industry.
 </div>
 
 <br />
@@ -111,4 +111,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| How To Make Portfolio Website Using Html & Css | Step-by-step of creating a website. | https://www.youtube.com/watch?v=fpze88HptWg |

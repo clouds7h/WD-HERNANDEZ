@@ -52,7 +52,7 @@ ul li a{
 }
 
 ul li a:hover{
-  color: #00b6c4;
+  color: #3498db;
 }
 
 .info{
@@ -72,7 +72,7 @@ ul li a:hover{
 }
 
 .info span{
-  color: #00b6c4;
+  color: #3498db;
 }
 
 .info a{
@@ -88,7 +88,7 @@ ul li a:hover{
 }
 
 .info a:hover{
-  background: rgb(59,174,209);
+  background:#3498db;
 }
 
 .image{
@@ -128,5 +128,5 @@ ul li a:hover{
 }
 
 .icons ion-icon:hover{
-  color: rgb(59,174,209);
+  color: #3498db;
 }

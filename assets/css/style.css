@@ -18,15 +18,17 @@
   display: flex;
   margin: auto;
   padding: 15px 0;
+  padding-top: 20px;
+  margin-top: 20px;
   align-items: center;
   justify-content: space-between;
 }
 
 .navbar .logo{
-  width: 160px;
+  width: 300px;
   cursor: pointer;
   margin-top: -3%;
-  margin-left: -2%;
+  margin-left: -5%;
 }
 
 ul{
@@ -50,7 +52,7 @@ ul li a{
 }
 
 ul li a:hover{
-  color: rgb(230,104,59);
+  color: #00b6c4;
 }
 
 .info{
@@ -70,10 +72,11 @@ ul li a:hover{
 }
 
 .info span{
-  color: rgb(230,104,59);
+  color: #00b6c4;
 }
 
 .info a{
+  margin-bottom: 20px;
   text-decoration:  none;
   color: #fff;
   background: rgb(36,32,30);
@@ -115,6 +118,7 @@ ul li a:hover{
 }
 
 .icons ion-icon{
+  margin-top: 20px;
   margin-left: 7%;
   color: #000;
   margin-right: -60px;

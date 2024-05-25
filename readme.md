@@ -111,4 +111,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| How To Make Portfolio Website Using Html & Css | Step-by-Step Tutorial | PraRoz Tutorial | Step-by-step of creating a website. | https://www.youtube.com/watch?v=fpze88HptWg |

@@ -7,17 +7,21 @@
 
 .about{
     width: 100%;
-    padding: 78px 0px;
+    padding: 50px 0px;
     background-color: #66d3db;
+    text-align: center;
 }
 
 .about img {
+    max-width: 100%;
     height: auto;
     width: 420px;
+    margin-bottom: 30px;
 }
 
 .about-text{
-    width: 550px;
+    max-width: 550px;
+    width: 0 auto;
 }
 
 .main{
@@ -29,11 +33,12 @@
     justify-content: space-around;
 }
 
+
 .about-text h1{
-    color: white;
-    font-size: 80px;
-    text-transform: capitalize;
-    margin-bottom: 20px;
+    color: #001213;
+    line-height: 1.6;
+    font-size: 18px;
+    margin-bottom: 30px;
 }
 
 .about-text h5{
@@ -54,4 +59,14 @@ span{
     line-height: 28px;
     font-size: 18px;
     margin-bottom: 45px;
+}
+
+@media only screen and (max-width: 768px) {
+    .about img {
+        width: 80%; 
+    }
+
+    .about-text {
+        width: 90%; 
+    }
 }
